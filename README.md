@@ -190,7 +190,7 @@ My goal is to create applications that are not only functional, but also **struc
 ## 📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsifAlidev2&show_icons=true&hide_border=true&count_private=true" alt="Asif Ali's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AsifAlidev2&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifAlidev2&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
