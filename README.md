@@ -68,9 +68,6 @@ A React-based e-commerce application built with a reusable, component-based arch
 * Data-driven UI
 * Component-based architecture
 
-🔗 **Repository:**
-https://github.com/AsifAlidev2/e-commerce-react-app
-
 ---
 
 ### 🛍️ Laravel E-Commerce Application
@@ -88,9 +85,6 @@ A Laravel-based e-commerce application focused on backend development, database 
 * Eloquent ORM
 * Laravel migrations
 * Application workflows
-
-🔗 **Repository:**
-https://github.com/AsifAlidev2/Laravel-ecommerce
 
 ---
 
@@ -112,9 +106,6 @@ A database-driven employee management application for managing employee records 
 * Reporting
 * Relational database operations
 
-🔗 **GitHub:**
-Add repository link here
-
 ---
 
 ### 📝 Blog Management System
@@ -134,9 +125,6 @@ A PHP/MySQL-based blog management platform supporting users, roles, posts, categ
 * CRUD operations
 * Session management
 * Relational database design
-
-🔗 **GitHub:**
-Add repository link here
 
 ---
 
@@ -172,10 +160,10 @@ I focus on developing:
 [asifrodnani111@gmail.com](mailto:asifrodnani111@gmail.com)
 
 💼 **LinkedIn:**
-https://www.linkedin.com/in/asif-ali-php
+linkedin.com/in/asif-ali-php
 
 🐙 **GitHub:**
-https://github.com/AsifAlidev2
+github.com/AsifAlidev2
 
 ---
 
